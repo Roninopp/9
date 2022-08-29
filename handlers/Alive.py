@@ -124,19 +124,19 @@ async def alive(client: Client, e: Message):
         reply_markup=InlineKeyboardMarkup(
                 [[
                     InlineKeyboardButton(
-                        "• 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 •", url="https://t.me/Superior_Bots")
+                        "• 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 •", url="https://t.me/RoninXJin_updates")
                 ], [
                     InlineKeyboardButton(
-                        "• 𝐑𝐞𝐩𝐨 •", url="https://github.com/ITZ-ZAID/ZAID-USERBOT")
+                        "• MY KING•", url="https://t.me/DushmanXRonin")
                 ]],
         ),
     ) 
     except Exception as lol:         
-        Alive_msg = f"𝐒𝐩𝐚𝐦𝐛𝐨𝐭 𝐢𝐬 𝐖𝐨𝐫𝐤𝐢𝐧𝐠. 🔥 \n\n"
+        Alive_msg = f"𝐛𝐨𝐭 𝐢𝐬 𝐖𝐨𝐫𝐤𝐢𝐧𝐠. 🔥 \n\n"
         Alive_msg += f"◈ ━━━━━━ ◆ ━━━━━━ ◈ \n"
         Alive_msg += f"► Vᴇʀsɪᴏɴ : `Beta.0.1` \n"
         Alive_msg += f"► Pʏʀᴏ ᴠᴇʀsɪᴏɴ : `1.4.15` \n"
-        Alive_msg += f"► Sᴜᴘᴘᴏʀᴛ : [Jᴏɪɴ](https://t.me/Superior_Support) \n"
+        Alive_msg += f"► Sᴜᴘᴘᴏʀᴛ : [Jᴏɪɴ](https://t.me/Ronin_Fighters_Fd) \n"
         Alive_msg += f"◈ ━━━━━━ ◆ ━━━━━━ ◈ \n\n"
         await e.reply_photo(
         photo=ALIVE_PIC,
@@ -144,10 +144,10 @@ async def alive(client: Client, e: Message):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("• 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 •", url="https://t.me/Superior_Bots"),
+                    InlineKeyboardButton("• 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 •", url="https://t.me/RoninXJin_updates"),
                 ],
                 [
-                    InlineKeyboardButton("• 𝐑𝐞𝐩𝐨 •", url="https://github.com/Itz-Zaid/ZAID-Userbot"),
+                    InlineKeyboardButton("• MY KING•", ur="https://t.me/dushmanXRoni"),
                 ],
             ],
         ),
